@@ -279,7 +279,7 @@
     };
   # In this section, the main thing you will need to do is change the default package name
   # to the name of the packageDefinitions entry you wish to use as the default.
-    defaultPackageName = "nvim";
+    defaultPackageName = "xvim";
   in
 
 
